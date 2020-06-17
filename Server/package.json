@@ -1,0 +1,26 @@
+{
+  "name": "graduation-project",
+  "version": "1.0.0",
+  "description": "This is a graduation project.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zzb lzy hzh",
+  "license": "ISC",
+  "dependencies": {
+    "art-template": "^4.13.2",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.17.1",
+    "express-art-template": "^1.0.1",
+    "express-session": "^1.17.0",
+    "md5-node": "^1.0.1",
+    "moment": "^2.24.0",
+    "multer": "^1.4.2",
+    "mysql": "^2.17.1",
+    "nodemailer": "^6.4.2",
+    "svg-captcha": "^1.4.0",
+    "vue": "^2.6.10"
+  }
+}
